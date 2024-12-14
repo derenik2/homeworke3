@@ -1,0 +1,9 @@
+library:
+  name: "City Library"
+  books:
+    book1:
+      title: "1984"
+      author: "George Orwell"
+    book2:
+      title: "Brave New World"
+      author: "Aldous Huxley"
